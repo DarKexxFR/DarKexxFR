@@ -13,4 +13,4 @@
 💼 **LinkedIn:** *Coming Soon (Building my network!)*
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,github,linux,bash,visualstudio,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,sql,c,cpp,github,linux,bash,visualstudio,idea)](https://skillicons.dev)
