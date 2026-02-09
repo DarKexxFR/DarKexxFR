@@ -12,6 +12,7 @@
 ### Connect with me:
 📧 **Email:** reda.dahmouni@epita.fr  
 💼 **LinkedIn:** *Coming Soon (Building my network!)*
+💬 **Discord:** .darkexx
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,python,git,unity,mysql,c,cpp,github,linux,bash,visualstudio,idea,css,html,php)](https://skillicons.dev)
