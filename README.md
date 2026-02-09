@@ -3,6 +3,7 @@
 * 🎓 **Student at EPITA** -- Class of 2028, currently sharpening my skills in Computer Science.
 * ⚙️ **Ex-Prep TSI** -- Bringing a strong engineering and systems background to the world of code.
 * 🏊 **Piscine Finisher** -- Successfully conquered the intensive C, Java and SQL bootcamps.
+* 🐚 **42sh Architect** -- Built a functional POSIX-compliant shell from scratch in C.
 * 🐍 **Python Enthusiast** -- Passionate about algorithms and automation since day one.
 * 🚀 **Always Learning** -- Transitioning from physical engineering to software architecture.
 
