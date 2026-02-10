@@ -8,12 +8,18 @@
 * 🚀 **Always Learning** -- Transitioning from physical engineering to software architecture.
 
 ---
+## 🔗 Connect with me:
 
-d## 🔗 Connect with me:
+<a href="https://www.linkedin.com/in/reda-dahmouni-b16780269/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+</a>
+<a href="mailto:reda.dahmouni@epita.fr">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+</a>
+<a href="https://discord.com/users/.darkexx">
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-dahmouni-b16780269/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reda.dahmouni@epita.fr)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.darkexx)
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,python,git,unity,mysql,c,cpp,github,linux,bash,visualstudio,idea,css,html,php)](https://skillicons.dev)
