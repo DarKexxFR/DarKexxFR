@@ -12,8 +12,6 @@
 ### Connect with me:
 📧 **Email:** reda.dahmouni@epita.fr  
 
-💼 **LinkedIn:** in/reda-dahmouni-b16780269/
-
 💬 **Discord:** `.darkexx`
 
 ### Languages and Tools:
