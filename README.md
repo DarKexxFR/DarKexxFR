@@ -12,7 +12,7 @@
 ### Connect with me:
 📧 **Email:** reda.dahmouni@epita.fr  
 
-💼 **LinkedIn:** *Coming Soon (Building my network!)* 
+💼 **LinkedIn:** in/reda-dahmouni-b16780269/
 
 💬 **Discord:** `.darkexx`
 
