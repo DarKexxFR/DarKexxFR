@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)]("https://www.linkedin.com/in/reda-dahmouni-b16780269/")
 [![My Skills](https://skillicons.dev/icons?i=discord)]("https://discord.com/users/.darkexx")
-[![My Skills](https://skillicons.dev/icons?i=outlook)]("mailto:reda.dahmouni@epita.fr")
+[![My Skills](https://skillicons.dev/icons?i=mail)]("mailto:reda.dahmouni@epita.fr")
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,python,git,unity,mysql,c,cpp,github,linux,bash,visualstudio,idea,css,html,php)](https://skillicons.dev)
