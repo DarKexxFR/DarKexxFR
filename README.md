@@ -15,4 +15,4 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:reda.dahmouni@epita.fr)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,python,git,unity,mysql,c,cpp,github,linux,bash,visualstudio,idea,css,html,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,unity,mysql,c,cpp,c#,github,linux,bash,visualstudio,idea,css,html,php)](https://skillicons.dev)
